@@ -1,0 +1,10 @@
+{
+  "name": "genpark-node-manager",
+  "version": "1.0.0",
+  "description": "GenPark Node Manager - Raft leader lease duration budgeting, peer gossip epidemic fanout trees, and resource pressure eviction priority scoring with zero dependencies.",
+  "tools": [
+    "calculate_raft_lease_expiration",
+    "compute_gossip_dissemination_tree",
+    "evaluate_eviction_priority_score"
+  ]
+}
